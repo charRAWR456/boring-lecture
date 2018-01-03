@@ -1,0 +1,21 @@
+body {
+  background-color: #79b764;
+}
+.intro{
+  text-align:center;
+}
+h2.intro{
+  color: #0e6fd1;
+  font-size: 50px;
+  font-family: cursive;
+  text-shadow: 2px 2px #ffffff;
+}
+p.intro{
+  color: #0e6fd1;
+  font-size: 30px;
+  font-family: cursive;
+  text-shadow: 2px 2px #000000;
+}
+img.intro{
+  max-width:20%;
+}
